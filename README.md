@@ -1,6 +1,8 @@
 # InsiderLauncher
 **[THIS VERSION IS A BETA], no interface, only terminal**
-[<img src="https://letscrackon.org/wp-content/uploads/2019/07/download-button-1.png" width="125"/>](https://github.com/user/repository/subscription)
+
+[<img src="https://letscrackon.org/wp-content/uploads/2019/07/download-button-1.png" width="125"/>](https://github.com/AlmartDev/InsiderLauncher/blob/installer/insiderlaunchersetup.exe?raw=true)
+
 The launcher of the insider engine with interface. it is currently on development.
 With the insider launcher you will be able to manage all your projects faster
 
@@ -11,7 +13,7 @@ With the version 1.0.0 you can create and load recent projects
 Insider Launcher will be ONLY BUILDEABLE on windows (tested on windows 10, 11)
 
 
-or download with git:
+download with the [installer](https://github.com/AlmartDev/InsiderLauncher/blob/installer/insiderlaunchersetup.exe?raw=true) (the download button) or download with git:
 ```
 git clone https://github.com/almartdev/insiderlauncher
 cd insiderlauncher
