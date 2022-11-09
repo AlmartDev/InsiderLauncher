@@ -8,10 +8,9 @@ With the insider launcher you will be able to manage all your projects faster
 With the version 1.0.0 you can create and load recent projects
 
 # Download
-Insider Launcher will be ONLY BUILDEABLE on windows (tested on windows 10, 11)
+Insider Launcher is only tested on windows 10
 
-
-download with git:
+clone with git:
 ```
 git clone https://github.com/almartdev/insiderlauncher
 cd insiderlauncher
