@@ -1,1 +1,2 @@
-gitpython
+git.repo.base
+shutil
