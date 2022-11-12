@@ -64,8 +64,11 @@ def ProjectList():
     if option.isdigit() and int(option) < len(os.listdir(projectsFolder)):
         #open the project with the index of the option
         with open(projectsFolder + os.listdir(projectsFolder)[int(option)], 'r') as f:
+            name = f.readline()
             path = f.readline()
+
             #open folder with the path of the project
+            print(path)
             os.startfile(path)
 
 def FindProject():
