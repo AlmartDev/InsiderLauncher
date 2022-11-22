@@ -20,7 +20,7 @@ pip install requierements.txt
 python3 launcher.py
 ```
 ### Download .zip
-(click here)[https://github.com/AlmartDev/InsiderLauncher/archive/refs/heads/main.zip] to download project as a .zip file.
+[click here](https://github.com/AlmartDev/InsiderLauncher/archive/refs/heads/main.zip) to download project as a .zip file.
 
 ## Project Data
 version -> 1.0.1
