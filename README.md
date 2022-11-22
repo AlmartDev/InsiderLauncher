@@ -6,8 +6,7 @@ Abaliable features are: creating projects, deleteing them, open recent projects 
 
 ## Download
 Insider Launcher is only tested on windows 10
-
-clone with git:
+### clone with git:
 ```sh
 git clone https://github.com/almartdev/insiderlauncher
 ```
@@ -20,6 +19,8 @@ pip install requierements.txt
 ```sh
 python3 launcher.py
 ```
+### Download .zip
+(click here)[https://github.com/AlmartDev/InsiderLauncher/archive/refs/heads/main.zip] to download project as a .zip file.
 
 ## Project Data
 version -> 1.0.1
