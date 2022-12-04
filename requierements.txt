@@ -1,2 +1,2 @@
-git.repo.base
-shutil
+GitPython
+pytest-shutil
