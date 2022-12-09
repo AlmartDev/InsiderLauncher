@@ -4,7 +4,7 @@
 Insider launcher is a program that helps you to manage your insider engine projects. You can create projects and work with them more easily
 Abaliable features are: creating projects, deleteing them, open recent projects and add projects from file.
 
-## Download
+## Download & Run
 Insider Launcher is only tested on windows 10
 ### clone with git:
 ```sh
@@ -21,6 +21,9 @@ python3 launcher.py
 ```
 ### Download .zip
 [click here](https://github.com/AlmartDev/InsiderLauncher/archive/refs/heads/main.zip) to download project as a .zip file.
+
+### Run in windows
+You can run a precompiled launcher in the precompiled branch
 
 ## Contributing
 
